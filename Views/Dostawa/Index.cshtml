@@ -1,0 +1,56 @@
+﻿@model IEnumerable<ProjektZaliczenie.Models.Dostawa>
+
+@{
+    ViewBag.Title = "Index";
+}
+<img src="Zooexpress.jpg" class="picture" />
+    <body>
+        <div class="jumbotron">
+            <h2 text-align="centre">
+                <span>Dostawy</span>
+            
+            </h2>
+        </div>
+        <p>
+            @Html.ActionLink("Dodaj nową dostawe", "Create")
+        </p>
+        <div id="produktlist-section">
+            <table class="table table-bordered table-hover">
+                <tr>
+                    <th>
+
+                        @Html.DisplayNameFor(model => model.Dostawca)
+
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Opis)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Uwagi)
+                    </th>
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Dostawca)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Opis)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Uwagi)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Edytuj", "Edit", new { id = item.Id }) |
+                            @Html.ActionLink("Szczegóły", "Details", new { id = item.Id }) |
+                            @Html.ActionLink("Usuń", "Delete", new { id = item.Id })
+                        </td>
+                    </tr>
+                }
+
+            </table>
+        </div>
+        </body>

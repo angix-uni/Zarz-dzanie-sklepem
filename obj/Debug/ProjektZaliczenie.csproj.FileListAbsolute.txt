@@ -1,0 +1,212 @@
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\ProjektZaliczenie.dll.config
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\ProjektZaliczenie.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\ProjektZaliczenie.pdb
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\roslyn\csc.exe
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\roslyn\csc.exe.config
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\roslyn\csc.rsp
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\roslyn\csi.exe
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\roslyn\csi.rsp
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\roslyn\System.AppContext.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\roslyn\vbc.exe
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\roslyn\vbc.exe.config
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\roslyn\vbc.rsp
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\roslyn\VBCSCompiler.exe
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\Antlr3.Runtime.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\EntityFramework.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\EntityFramework.SqlServer.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\Newtonsoft.Json.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\System.Web.Helpers.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\System.Web.Mvc.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\System.Web.Optimization.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\System.Web.Razor.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\System.Web.WebPages.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\System.Web.WebPages.Razor.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\WebGrease.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\EntityFramework.xml
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\EntityFramework.SqlServer.xml
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\System.Web.Helpers.xml
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\System.Web.Mvc.xml
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\System.Web.Optimization.xml
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\System.Web.Razor.xml
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\System.Web.WebPages.xml
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\System.Web.WebPages.Razor.xml
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\Newtonsoft.Json.xml
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\Antlr3.Runtime.pdb
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\obj\Debug\ProjektZaliczenie.csprojAssemblyReference.cache
+C:\Users\Monika\source\repos\ProjektZaliczenie\obj\Debug\ProjektZaliczenie.csproj.CopyComplete
+C:\Users\Monika\source\repos\ProjektZaliczenie\obj\Debug\ProjektZaliczenie.dll
+C:\Users\Monika\source\repos\ProjektZaliczenie\obj\Debug\ProjektZaliczenie.pdb
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\ProjektZaliczenie.dll.config
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\ProjektZaliczenie.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\ProjektZaliczenie.pdb
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\roslyn\csc.exe
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\roslyn\csc.exe.config
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\roslyn\csc.rsp
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\roslyn\csi.exe
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\roslyn\csi.rsp
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\roslyn\System.AppContext.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\roslyn\vbc.exe
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\roslyn\vbc.exe.config
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\roslyn\vbc.rsp
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\roslyn\VBCSCompiler.exe
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\Antlr3.Runtime.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\EntityFramework.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\EntityFramework.SqlServer.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\Newtonsoft.Json.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\System.Web.Helpers.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\System.Web.Mvc.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\System.Web.Optimization.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\System.Web.Razor.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\System.Web.WebPages.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\System.Web.WebPages.Razor.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\WebGrease.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\EntityFramework.xml
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\EntityFramework.SqlServer.xml
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\System.Web.Helpers.xml
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\System.Web.Mvc.xml
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\System.Web.Optimization.xml
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\System.Web.Razor.xml
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\System.Web.WebPages.xml
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\System.Web.WebPages.Razor.xml
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\Newtonsoft.Json.xml
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\Antlr3.Runtime.pdb
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\pl\System.Web.Razor.resources.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\obj\Debug\ProjektZaliczenie.csprojAssemblyReference.cache
+C:\Users\pusze\Desktop\ProjektZaliczenie\obj\Debug\ProjektZaliczenie.csproj.CoreCompileInputs.cache
+C:\Users\pusze\Desktop\ProjektZaliczenie\obj\Debug\ProjektZaliczenie.csproj.CopyComplete
+C:\Users\pusze\Desktop\ProjektZaliczenie\obj\Debug\ProjektZaliczenie.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\obj\Debug\ProjektZaliczenie.pdb
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\ProjektZaliczenie.dll.config
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\ProjektZaliczenie.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\ProjektZaliczenie.pdb
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\roslyn\csc.exe
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\roslyn\csc.exe.config
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\roslyn\csc.rsp
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\roslyn\csi.exe
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\roslyn\csi.rsp
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\roslyn\System.AppContext.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\roslyn\vbc.exe
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\roslyn\vbc.exe.config
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\roslyn\vbc.rsp
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\roslyn\VBCSCompiler.exe
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\Antlr3.Runtime.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\EntityFramework.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\EntityFramework.SqlServer.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\Newtonsoft.Json.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\System.Web.Helpers.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\System.Web.Mvc.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\System.Web.Optimization.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\System.Web.Razor.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\System.Web.WebPages.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\System.Web.WebPages.Razor.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\WebGrease.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\EntityFramework.xml
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\EntityFramework.SqlServer.xml
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\System.Web.Helpers.xml
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\System.Web.Mvc.xml
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\System.Web.Optimization.xml
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\System.Web.Razor.xml
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\System.Web.WebPages.xml
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\System.Web.WebPages.Razor.xml
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\Newtonsoft.Json.xml
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\Antlr3.Runtime.pdb
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\pl\System.Web.Razor.resources.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\obj\Debug\ProjektZaliczenie.csprojAssemblyReference.cache
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\obj\Debug\ProjektZaliczenie.csproj.CoreCompileInputs.cache
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\obj\Debug\ProjektZaliczenie.csproj.CopyComplete
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\obj\Debug\ProjektZaliczenie.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\obj\Debug\ProjektZaliczenie.pdb
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\System.Net.Http.Formatting.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\System.Web.Http.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\System.Web.Http.WebHost.dll
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\System.Net.Http.Formatting.xml
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\System.Web.Http.xml
+C:\Users\pusze\Desktop\Uniwersytet\Rok 2 Semestr 1\ASP\ProjektZaliczenie\bin\System.Web.Http.WebHost.xml
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\System.Net.Http.Formatting.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\System.Web.Http.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\System.Web.Http.WebHost.dll
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\System.Net.Http.Formatting.xml
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\System.Web.Http.xml
+C:\Users\pusze\Desktop\ProjektZaliczenie\bin\System.Web.Http.WebHost.xml
