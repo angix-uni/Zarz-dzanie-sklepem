@@ -1,2 +1,2 @@
 # Zarzadzanie-sklepem
-Aplikacja c# umożliwiająca zarządzanie produktami dla zwierząt, dostawami i zamówieniami.
+Aplikacja umożliwiająca zarządzanie produktami dla zwierząt, dostawami i zamówieniami.
