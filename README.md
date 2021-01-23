@@ -1,2 +1,9 @@
 # Zarzadzanie-sklepem
-Aplikacja umożliwiająca zarządzanie produktami dla zwierząt, dostawami i zamówieniami.
+## **_Zooexpress_**
+
+Projekt wykonany w *Visual Studio*
+
+### Funkcjonalność
+* Dodawanie produktów, zamówień i dostaw
+* Edycja
+* Możliwość usuwania
